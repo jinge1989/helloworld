@@ -1,0 +1,5 @@
+age = float(input('您的年龄为：\n'))
+if age < 18:
+  print('18岁以下不能浪！')
+else:
+  print('可以浪了！')
